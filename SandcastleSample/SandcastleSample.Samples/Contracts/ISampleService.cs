@@ -1,5 +1,5 @@
 ﻿
-namespace SandcastleSample.Services.Contracts
+namespace SandcastleSample.Samples.Contracts
 {
     public interface ISampleService
     {

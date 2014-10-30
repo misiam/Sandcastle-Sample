@@ -5,10 +5,10 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("SandcastleSample.Services")]
+[assembly: AssemblyTitle("SandcastleSample.Samples")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyProduct("SandcastleSample.Services")]
+[assembly: AssemblyProduct("SandcastleSample.Samples")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

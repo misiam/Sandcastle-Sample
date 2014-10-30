@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SandcastleSample.Services", "SandcastleSample.Services\SandcastleSample.Services.csproj", "{2B7DC8C0-E8AD-4121-B5AD-A4408CA5DAFB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SandcastleSample.Samples", "SandcastleSample.Samples\SandcastleSample.Samples.csproj", "{2B7DC8C0-E8AD-4121-B5AD-A4408CA5DAFB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

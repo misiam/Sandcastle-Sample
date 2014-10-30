@@ -7,8 +7,8 @@
     <ProjectGuid>{2B7DC8C0-E8AD-4121-B5AD-A4408CA5DAFB}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SandcastleSample.Services</RootNamespace>
-    <AssemblyName>SandcastleSample.Services</AssemblyName>
+    <RootNamespace>SandcastleSample.Samples</RootNamespace>
+    <AssemblyName>SandcastleSample.Samples</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -39,6 +39,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ConstructorsSamples.cs" />
+    <Compile Include="GenericSamples.cs" />
+    <Compile Include="TagsSamples.cs" />
+    <Compile Include="MethodsSamples.cs" />
     <Compile Include="SampleService.cs" />
     <Compile Include="Contracts\ISampleService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
