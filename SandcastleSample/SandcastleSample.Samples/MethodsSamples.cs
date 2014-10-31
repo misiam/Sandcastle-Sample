@@ -4,7 +4,6 @@ namespace SandcastleSample.Samples
 {
     public class MethodsSamples
     {
-
         /// <summary>
         /// Some class property
         /// </summary>
