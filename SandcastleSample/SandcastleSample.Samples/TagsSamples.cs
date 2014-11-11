@@ -8,20 +8,18 @@ namespace SandcastleSample.Samples
 {
     /// <summary>
     /// Some examples of tags that could be used in the documentation.
-    /// </summary>
     /// <code>
     /// //Note that code samples could be also included
     /// var methodsSamples = new MethodsSamples();
     /// var result = methodsSamples.WithoutParameters();
     /// </code>
     /// 
+    /// <para>
+    /// Link to a class:
+    /// <code>T:SandcastleSample.Samples.ConstructorsSamples</code>
+    /// </para>
     /// <remarks>
-    /// 
-    /// 
-    /// 
-    /// 
     /// <para>Sometimes it is need to add some tables int the documentation</para>
-    /// 
     /// <list type="table">
     /// <listheader>
     /// <id>ID</id>
@@ -33,9 +31,9 @@ namespace SandcastleSample.Samples
     /// <item><id>44</id><name>Somename3</name><descr>Some description2</descr></item>
     /// </list>
     /// 
-    /// 
-    /// 
     /// </remarks>
+    /// </summary>
+    /// 
     public class TagsSamples
     {
 

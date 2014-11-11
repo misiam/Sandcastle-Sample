@@ -68,7 +68,7 @@ namespace SandcastleSample.Samples
         /// <param name="param2">parameter 2</param>
         /// <param name="outValue">out parameter</param>
         /// <example>
-        /// <para>Out and ref are used with @: M:SandcastleSample.Samples.MethodsSamples.MethodWithOutParameter(System.Int32,System.Int32,System.Int32@) <code></code></para>
+        /// <para>Out and ref are used with @:  <code>M:SandcastleSample.Samples.MethodsSamples.MethodWithOutParameter(System.Int32,System.Int32,System.Int32@)</code></para>
         /// </example>
         /// <returns></returns>
         public void MethodWithOutParameter(int param1, int param2, out int outValue)
@@ -78,10 +78,10 @@ namespace SandcastleSample.Samples
 
         /// <summary>
         /// Method with referenced parameter
-        /// </summary>
         /// <example>
-        /// <para>Out and ref are used with @: M:SandcastleSample.Samples.MethodsSamples.MethodWithOutParameter(System.Int32,System.String@) <code></code></para>
+        /// <para>Out and ref are used with @:  <code>M:SandcastleSample.Samples.MethodsSamples.MethodWithRefParameter(System.String,System.String@)</code></para>
         /// </example>
+        /// </summary>
         /// <param name="param1"></param>
         /// <param name="refValue"></param>
         public void MethodWithRefParameter(string param1, ref string refValue)
@@ -90,14 +90,14 @@ namespace SandcastleSample.Samples
         }
 
         /// <summary>
-        /// 
-        /// </summary>
+        /// Go to overload <see cref="O:SandcastleSample.Samples.MethodsSamples.MethodWithOverload"/>
         /// <example>
         ///     <para>To link to both overloads use 'O': <code>O:SandcastleSample.Samples.MethodsSamples.MethodWithOverload</code></para>
+        /// </example>
+        /// </summary>
         ///     <overloads>
         ///         <para>'overloads' tag used in Sandcastle to put some additional inforation to "Ovetrload methods" page in the documentation.</para> 
         ///     </overloads>
-        /// </example>
         /// <param name="param"></param>
         public void MethodWithOverload(string param)
         {
@@ -105,7 +105,7 @@ namespace SandcastleSample.Samples
         }
 
         /// <summary>
-        /// 
+        /// Go to overload <see cref="O:SandcastleSample.Samples.MethodsSamples.MethodWithOverload"/>
         /// </summary>
         /// <param name="param1"></param>
         /// <param name="param2"></param>
@@ -129,11 +129,10 @@ namespace SandcastleSample.Samples
         }
 
         /// <summary>
-        /// 
-        /// </summary>
         /// <example>
         /// <para>To link to stat method use ordinal method notation: <code>M:SandcastleSample.Samples.MethodsSamples.SomeStaticMethod</code></para>
         /// </example>
+        /// </summary>
         /// <returns></returns>
         public static string SomeStaticMethod()
         {

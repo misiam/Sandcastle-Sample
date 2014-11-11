@@ -42,6 +42,7 @@
   <ItemGroup>
     <Compile Include="ConstructorsSamples.cs" />
     <Compile Include="GenericSamples.cs" />
+    <Compile Include="NamespaceDoc.cs" />
     <Compile Include="TagsSamples.cs" />
     <Compile Include="MethodsSamples.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
