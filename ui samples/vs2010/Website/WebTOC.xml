@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Title="Welcome to the [TODO: Add project name]" Url="html/f1396743-2b09-4e9d-953b-9f170ba9e0c6.htm" />
+  <HelpTOCNode Id="c8bafbce-e08a-4ab6-aedf-4b109ec11e46" Title="Version History" Url="html/cf9c01d7-deda-4e72-a53c-f21f5dccaa11.htm">
+    <HelpTOCNode Title="Version 1.0.0.0" Url="html/b01e2680-95fc-4b5f-8f9a-8ec4b2f9c2cb.htm" />
+  </HelpTOCNode>
+  <HelpTOCNode Id="e3d9b4f7-1f4b-4def-b560-e0eca19fe27b" Title="SandcastleSample.Samples" Url="html/ce780eef-68c0-9805-9326-ff8992b6df75.htm">
+    <HelpTOCNode Id="26997c3d-849f-4dc0-9748-4f2d2edcf880" Title="ConstructorsSamples Class" Url="html/6194e0a4-3cd2-aebd-2f89-1f91060cd37e.htm">
+      <HelpTOCNode Id="72c05e88-a651-44d3-a338-266ca3e72c05" Title="ConstructorsSamples Constructor " Url="html/c5593b44-0217-5b10-b5e4-1818a01f5406.htm">
+        <HelpTOCNode Title="ConstructorsSamples Constructor " Url="html/b4c192d0-b11f-b1af-bb4c-e4e647c8238a.htm" />
+        <HelpTOCNode Title="ConstructorsSamples Constructor (String, Int32)" Url="html/bb7f55e8-cc53-14e7-2d9e-4f925a6b9729.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="ConstructorsSamples Methods" Url="html/ddda0507-93cc-64a1-5ea5-ebe1f2488e93.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="0bbc7078-ff55-4e0f-9a4a-e11bb5a2640d" Title="GenericSamples(TClass) Class" Url="html/d2fe31aa-5338-61cf-6115-3ed6214d4e04.htm">
+      <HelpTOCNode Title="GenericSamples(TClass) Constructor " Url="html/3df4f1b0-2b42-98e3-4f1a-bbae6ead67a2.htm" />
+      <HelpTOCNode Id="b6fa9e0e-f56c-4e9b-b37d-1b91f593854f" Title="GenericSamples(TClass) Methods" Url="html/52183f94-73fb-ff92-2e79-43914fc0a5f7.htm">
+        <HelpTOCNode Title="GenericArgumentInMethod Method " Url="html/602a5d62-a890-8a36-ef5e-31a1c2ba5506.htm" />
+        <HelpTOCNode Title="GenericMethod(T) Method " Url="html/7037803c-b80d-2135-699d-67d85662d294.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="7d54f615-e11d-4e2f-80a5-bb7e838f08cb" Title="MethodsSamples Class" Url="html/d57fd846-06e2-6f8c-c10e-a3a8b84f8fc8.htm">
+      <HelpTOCNode Title="MethodsSamples Constructor " Url="html/7cd1ead0-b8a6-dce4-4eed-469593249c3e.htm" />
+      <HelpTOCNode Id="f04051f7-3189-4f2d-a3b2-cf81a8abbe16" Title="MethodsSamples Methods" Url="html/7a29f052-f4cf-7c33-a8c0-7401c3b2cd8f.htm">
+        <HelpTOCNode Title="MehtodWithParams Method " Url="html/bc47479e-50d2-f48f-32fe-e177593849eb.htm" />
+        <HelpTOCNode Title="MethodWithOutParameter Method " Url="html/b03d454e-8c27-aba8-97a8-5e1db7d97b7d.htm" />
+        <HelpTOCNode Id="d420c4f7-b573-4b84-9ad2-abc2618686d8" Title="MethodWithOverload Method " Url="html/817bd0e6-ec88-85b4-cc8a-738c94278cea.htm">
+          <HelpTOCNode Title="MethodWithOverload Method (String)" Url="html/4a007956-4f84-c4cc-215d-e595c3ca29b6.htm" />
+          <HelpTOCNode Title="MethodWithOverload Method (Int32, Int32)" Url="html/28af2cb6-3222-db47-8f0a-f1951f59e2c7.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="MethodWithRefParameter Method " Url="html/388e76cb-54f9-76ad-bfb8-fee215a5f80a.htm" />
+        <HelpTOCNode Title="ProtectedMethod Method " Url="html/b181f872-203d-8e35-c5ca-c61e7e1ac9e2.htm" />
+        <HelpTOCNode Title="SomeStaticMethod Method " Url="html/ad00d2e2-cb55-2aeb-8da0-97c9a2e4c2da.htm" />
+        <HelpTOCNode Title="WithoutParameters Method " Url="html/cdd6850f-475b-0224-dc70-ce43d4af6cdc.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="9446f65b-4e2a-43b6-b67a-8dce83475f3b" Title="MethodsSamples Properties" Url="html/2272e86d-3dd7-c401-2aba-3e24f92f50ce.htm">
+        <HelpTOCNode Title="GetTypeName Property " Url="html/9c126b67-8cad-4c4d-4094-181b753d4b6d.htm" />
+        <HelpTOCNode Title="Item Property " Url="html/97b0e5dd-8981-30a2-1c0f-46c71eeb2844.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="7250c8d5-45cd-4b8b-80ce-a48300d72660" Title="TagsSamples Class" Url="html/fe7801c8-65f8-7da4-38c5-fcba91bcefb9.htm">
+      <HelpTOCNode Title="TagsSamples Constructor " Url="html/dd0e445c-57e0-9fe6-64d9-ab3cdc0673ca.htm" />
+      <HelpTOCNode Title="TagsSamples Methods" Url="html/f6e50e6c-fbfe-c2a5-e444-d908cac9d282.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>

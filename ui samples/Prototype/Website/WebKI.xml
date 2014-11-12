@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="ConstructorsSamples class" Url="html/6194e0a4-3cd2-aebd-2f89-1f91060cd37e.htm" />
+  <HelpKINode Title="ConstructorsSamples constructor">
+    <HelpKINode Title="ConstructorsSamples Constructor " Url="html/b4c192d0-b11f-b1af-bb4c-e4e647c8238a.htm" />
+    <HelpKINode Title="ConstructorsSamples Constructor " Url="html/28e0e69b-331e-bfca-819f-4aea701d7883.htm" />
+    <HelpKINode Title="ConstructorsSamples Constructor (param1, param2)" Url="html/bb7f55e8-cc53-14e7-2d9e-4f925a6b9729.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GenericArgumentInMethod method" Url="html/602a5d62-a890-8a36-ef5e-31a1c2ba5506.htm" />
+  <HelpKINode Title="GenericMethod(Of T) method" Url="html/7037803c-b80d-2135-699d-67d85662d294.htm" />
+  <HelpKINode Title="GenericMethod&lt;T&gt; method" Url="html/7037803c-b80d-2135-699d-67d85662d294.htm" />
+  <HelpKINode Title="GenericSamples(Of TClass) class" Url="html/d2fe31aa-5338-61cf-6115-3ed6214d4e04.htm" />
+  <HelpKINode Title="GenericSamples(Of TClass) constructor" Url="html/3df4f1b0-2b42-98e3-4f1a-bbae6ead67a2.htm" />
+  <HelpKINode Title="GenericSamples(Of TClass).GenericArgumentInMethod method" Url="html/602a5d62-a890-8a36-ef5e-31a1c2ba5506.htm" />
+  <HelpKINode Title="GenericSamples(Of TClass).GenericMethod(Of T) method" Url="html/7037803c-b80d-2135-699d-67d85662d294.htm" />
+  <HelpKINode Title="GenericSamples&lt;TClass&gt; class" Url="html/d2fe31aa-5338-61cf-6115-3ed6214d4e04.htm" />
+  <HelpKINode Title="GenericSamples&lt;TClass&gt; constructor" Url="html/3df4f1b0-2b42-98e3-4f1a-bbae6ead67a2.htm" />
+  <HelpKINode Title="GenericSamples&lt;TClass&gt;.GenericArgumentInMethod method" Url="html/602a5d62-a890-8a36-ef5e-31a1c2ba5506.htm" />
+  <HelpKINode Title="GenericSamples&lt;TClass&gt;.GenericMethod&lt;T&gt; method" Url="html/7037803c-b80d-2135-699d-67d85662d294.htm" />
+  <HelpKINode Title="GetTypeName property" Url="html/9c126b67-8cad-4c4d-4094-181b753d4b6d.htm" />
+  <HelpKINode Title="Item property" Url="html/97b0e5dd-8981-30a2-1c0f-46c71eeb2844.htm" />
+  <HelpKINode Title="MehtodWithParams method" Url="html/bc47479e-50d2-f48f-32fe-e177593849eb.htm" />
+  <HelpKINode Title="MethodsSamples class" Url="html/d57fd846-06e2-6f8c-c10e-a3a8b84f8fc8.htm" />
+  <HelpKINode Title="MethodsSamples constructor" Url="html/7cd1ead0-b8a6-dce4-4eed-469593249c3e.htm" />
+  <HelpKINode Title="MethodsSamples.GetTypeName property" Url="html/9c126b67-8cad-4c4d-4094-181b753d4b6d.htm" />
+  <HelpKINode Title="MethodsSamples.Item property" Url="html/97b0e5dd-8981-30a2-1c0f-46c71eeb2844.htm" />
+  <HelpKINode Title="MethodsSamples.MehtodWithParams method" Url="html/bc47479e-50d2-f48f-32fe-e177593849eb.htm" />
+  <HelpKINode Title="MethodsSamples.MethodWithOutParameter method" Url="html/b03d454e-8c27-aba8-97a8-5e1db7d97b7d.htm" />
+  <HelpKINode Title="MethodsSamples.MethodWithOverload method">
+    <HelpKINode Title="MethodWithOverload Method " Url="html/817bd0e6-ec88-85b4-cc8a-738c94278cea.htm" />
+    <HelpKINode Title="MethodWithOverload Method (param)" Url="html/4a007956-4f84-c4cc-215d-e595c3ca29b6.htm" />
+    <HelpKINode Title="MethodWithOverload Method (param1, param2)" Url="html/28af2cb6-3222-db47-8f0a-f1951f59e2c7.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MethodsSamples.MethodWithRefParameter method" Url="html/388e76cb-54f9-76ad-bfb8-fee215a5f80a.htm" />
+  <HelpKINode Title="MethodsSamples.ProtectedMethod method" Url="html/b181f872-203d-8e35-c5ca-c61e7e1ac9e2.htm" />
+  <HelpKINode Title="MethodsSamples.SomeStaticMethod method" Url="html/ad00d2e2-cb55-2aeb-8da0-97c9a2e4c2da.htm" />
+  <HelpKINode Title="MethodsSamples.WithoutParameters method" Url="html/cdd6850f-475b-0224-dc70-ce43d4af6cdc.htm" />
+  <HelpKINode Title="MethodWithOutParameter method" Url="html/b03d454e-8c27-aba8-97a8-5e1db7d97b7d.htm" />
+  <HelpKINode Title="MethodWithOverload method">
+    <HelpKINode Title="MethodWithOverload Method " Url="html/817bd0e6-ec88-85b4-cc8a-738c94278cea.htm" />
+    <HelpKINode Title="MethodWithOverload Method (param)" Url="html/4a007956-4f84-c4cc-215d-e595c3ca29b6.htm" />
+    <HelpKINode Title="MethodWithOverload Method (param1, param2)" Url="html/28af2cb6-3222-db47-8f0a-f1951f59e2c7.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MethodWithRefParameter method" Url="html/388e76cb-54f9-76ad-bfb8-fee215a5f80a.htm" />
+  <HelpKINode Title="ProtectedMethod method" Url="html/b181f872-203d-8e35-c5ca-c61e7e1ac9e2.htm" />
+  <HelpKINode Title="SandcastleSample.Samples namespace" Url="html/ce780eef-68c0-9805-9326-ff8992b6df75.htm" />
+  <HelpKINode Title="SandcastleSample.Samples.ConstructorsSamples class" Url="html/6194e0a4-3cd2-aebd-2f89-1f91060cd37e.htm" />
+  <HelpKINode Title="SandcastleSample.Samples.GenericSamples(Of TClass) class" Url="html/d2fe31aa-5338-61cf-6115-3ed6214d4e04.htm" />
+  <HelpKINode Title="SandcastleSample.Samples.GenericSamples&lt;TClass&gt; class" Url="html/d2fe31aa-5338-61cf-6115-3ed6214d4e04.htm" />
+  <HelpKINode Title="SandcastleSample.Samples.MethodsSamples class" Url="html/d57fd846-06e2-6f8c-c10e-a3a8b84f8fc8.htm" />
+  <HelpKINode Title="SandcastleSample.Samples.TagsSamples class" Url="html/fe7801c8-65f8-7da4-38c5-fcba91bcefb9.htm" />
+  <HelpKINode Title="SomeStaticMethod method" Url="html/ad00d2e2-cb55-2aeb-8da0-97c9a2e4c2da.htm" />
+  <HelpKINode Title="TagsSamples class" Url="html/fe7801c8-65f8-7da4-38c5-fcba91bcefb9.htm" />
+  <HelpKINode Title="TagsSamples constructor" Url="html/dd0e445c-57e0-9fe6-64d9-ab3cdc0673ca.htm" />
+  <HelpKINode Title="version">
+    <HelpKINode Title="1.0.0.0" Url="html/b01e2680-95fc-4b5f-8f9a-8ec4b2f9c2cb.htm" />
+    <HelpKINode Title="history" Url="html/cf9c01d7-deda-4e72-a53c-f21f5dccaa11.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Welcome" Url="html/f1396743-2b09-4e9d-953b-9f170ba9e0c6.htm" />
+  <HelpKINode Title="WithoutParameters method" Url="html/cdd6850f-475b-0224-dc70-ce43d4af6cdc.htm" />
+</HelpKI>
